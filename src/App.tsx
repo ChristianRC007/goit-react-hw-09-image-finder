@@ -28,7 +28,6 @@ export default function App() {
     setSearchQuery(query);
     setCurrentPage(1);
     setImages([]);
-    console.log();
   };
 
   const fetchData = () => {
