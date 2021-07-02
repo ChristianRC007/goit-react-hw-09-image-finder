@@ -29,15 +29,3 @@ export default function ImageGalleryItem({
     </li>
   );
 }
-
-// class ImageGalleryItem extends Component {
-//   state = {
-//     largeImage: this.props.largeImageURL,
-//   };
-
-//   render() {
-//     const { webformatURL, tags, onClick, updateData } = this.props;
-//     const { largeImage } = this.state;
-
-//   }
-// }
